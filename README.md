@@ -1,2 +1,2 @@
-# types-file-saver
+# types-filesaver
 Type definitions for FileSaver.js
