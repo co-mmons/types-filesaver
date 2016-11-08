@@ -1,0 +1,8 @@
+{
+    "name": "@types/file-saver",
+    "version": "1.0.0",
+    "author": "co.mmons",
+    "private": false,
+    "license": "MIT",
+    "types": "file-saver.d.ts"
+}
